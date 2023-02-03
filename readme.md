@@ -99,6 +99,14 @@ sleep(5)
 
 Since you don't want to have the notifications overlap.
 
+By defualt the Script checks for a new video in the last 7 days but you can adjust this by changing line 29:
+
+``` python
+  if int(days, 10) <= 7:
+```
+
+Change 7 to your desired number of days.
+
 ## Give It A Test
 
 After all that is done just try restarting your computer and seeing if it works.
