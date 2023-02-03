@@ -1,0 +1,6 @@
+{
+  "python.globalModuleInstallation": true,
+  "python.defaultInterpreterPath": "C:\\Python311\\python.exe",
+  "python.terminal.executeInFileDir": true,
+  "python.terminal.launchArgs": []
+}
