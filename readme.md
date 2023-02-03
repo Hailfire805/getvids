@@ -1,5 +1,12 @@
 # How to use this script
 
+## CLone Repository
+
+Open Visual Studio Code
+Open your command pallete and type 
+"> clone" and select "Git: clone"
+Copy and paste this repositories URL
+
 ## Install Python
 
 Enter the following into your terminal:
