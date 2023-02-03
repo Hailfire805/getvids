@@ -2,10 +2,13 @@
 
 ## CLone Repository
 
-Open Visual Studio Code
-Open your command pallete and type 
-"> clone" and select "Git: clone"
-Copy and paste this repositories URL
+1. Open Visual Studio Code
+
+2. Open your command pallete and type "> clone"
+
+3. Select "Git: clone"
+
+4. Copy and paste this repositories URL
 
 ## Install Python
 
